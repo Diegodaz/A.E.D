@@ -27,3 +27,4 @@ void print(){
     cout<<"";
 }
 
+add(coef(coef,grado)
