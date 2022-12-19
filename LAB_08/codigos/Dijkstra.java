@@ -1,4 +1,4 @@
-package Ejercicio2;
+package Ejercicio;
 
 import java.io.BufferedWriter;
 import java.io.FileWriter;
