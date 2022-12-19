@@ -1,4 +1,4 @@
-package Ejercicio2;
+package Ejercicio;
 
 public class Arista {
 	private int nodo1;
